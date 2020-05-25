@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Travis Chen</title>
+    <link>https://everchanging.dev/projects/</link>
+    <description>Recent content in Projects on Travis Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Travis Chen</copyright>
+    <lastBuildDate>Fri, 30 Aug 2019 16:48:52 -0700</lastBuildDate>
+    
+	<atom:link href="https://everchanging.dev/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dynamic Knockd</title>
+      <link>https://everchanging.dev/projects/dynamic-knockd/</link>
+      <pubDate>Mon, 09 Sep 2019 16:32:43 -0700</pubDate>
+      
+      <guid>https://everchanging.dev/projects/dynamic-knockd/</guid>
+      <description>tl;dr: service to continuously change port sequence for knockd.
+Available on GitHub.
+This is a service that will dynamically update the knock sequence used by knockd. In essence, we update the knock sequence and restart knockd at regular intervals (configurable), thereby increasing security. The way the knock sequence is generated will depend on which script is used for generating them. The basic layout of this repository is as follows:
+ generators/: stores different scripts that generate knock sequences update.</description>
+    </item>
+    
+    <item>
+      <title>Texts to Passphrase</title>
+      <link>https://everchanging.dev/projects/texts-to-passphrase/</link>
+      <pubDate>Fri, 30 Aug 2019 16:48:27 -0700</pubDate>
+      
+      <guid>https://everchanging.dev/projects/texts-to-passphrase/</guid>
+      <description>tl;dr: generate password based on a collection of text files.
+Available on GitHub.
+There are many ways to generate a password. If we use a password manager, we can usually generate a random string with different characters, numbers, and symbols. Then, we simply copy and paste those passwords to login.
+However, sometimes, we may wish to manually type out the password. For example, we may want to login on a machine that is not ours (and so we do not wish to set up our password manager on that machine).</description>
+    </item>
+    
+  </channel>
+</rss>
