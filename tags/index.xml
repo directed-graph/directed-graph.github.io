@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Travis Chen</copyright>
-    <lastBuildDate>Mon, 09 Sep 2019 16:32:43 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2020 14:20:48 -0700</lastBuildDate>
     
 	<atom:link href="https://everchanging.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>projects</title>
+      <link>https://everchanging.dev/tags/projects/</link>
+      <pubDate>Sun, 31 May 2020 14:20:48 -0700</pubDate>
+      
+      <guid>https://everchanging.dev/tags/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>utilities</title>
+      <link>https://everchanging.dev/tags/utilities/</link>
+      <pubDate>Sun, 31 May 2020 14:20:48 -0700</pubDate>
+      
+      <guid>https://everchanging.dev/tags/utilities/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>infosec</title>
@@ -18,15 +36,6 @@
       <pubDate>Mon, 09 Sep 2019 16:32:43 -0700</pubDate>
       
       <guid>https://everchanging.dev/tags/infosec/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>projects</title>
-      <link>https://everchanging.dev/tags/projects/</link>
-      <pubDate>Mon, 09 Sep 2019 16:32:43 -0700</pubDate>
-      
-      <guid>https://everchanging.dev/tags/projects/</guid>
       <description></description>
     </item>
     
