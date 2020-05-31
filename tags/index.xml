@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Travis Chen</copyright>
-    <lastBuildDate>Sun, 31 May 2020 14:20:48 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2020 14:20:48 -0700</lastBuildDate>
     
 	<atom:link href="https://everchanging.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>projects</title>
       <link>https://everchanging.dev/tags/projects/</link>
-      <pubDate>Sun, 31 May 2020 14:20:48 -0700</pubDate>
+      <pubDate>Sun, 12 Apr 2020 14:20:48 -0700</pubDate>
       
       <guid>https://everchanging.dev/tags/projects/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>utilities</title>
       <link>https://everchanging.dev/tags/utilities/</link>
-      <pubDate>Sun, 31 May 2020 14:20:48 -0700</pubDate>
+      <pubDate>Sun, 12 Apr 2020 14:20:48 -0700</pubDate>
       
       <guid>https://everchanging.dev/tags/utilities/</guid>
       <description></description>
